@@ -10,4 +10,5 @@
  "root_password": "travis",
  "host_name": "http://localhost:8000",
  "install_apps": ["erpnext"]
+ "developer_mode": 1
 }
